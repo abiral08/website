@@ -1,0 +1,46 @@
+body{
+	    background:yellow;
+	    background-repeat: no-repeat;
+	}
+	h1{
+		color: slateblue;
+	}
+	p{
+		color: steelblue;
+	}
+	h2{
+		color: mediumvioletred;
+	}
+	p.red{
+		color: seagreen;
+	}
+	font{
+		float: right;
+		word-spacing: 20px;
+	
+	}
+	div{
+		margin bottom: 80px;
+		background-color: lightblue;
+	}
+	p.game{
+		color: indigo;
+	}
+
+h3{
+	color: gold;
+}
+div.a{
+	float: center;
+}
+nav{
+				float: left;
+				word-spacing: 20px;
+			}
+			nav a{
+				text-decoration: none;
+			}
+			nav a:hover{
+				color: green;
+
+			}

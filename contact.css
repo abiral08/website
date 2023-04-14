@@ -1,0 +1,35 @@
+body{
+			background:lightgreen;
+			background-repeat: no-repeat;
+		}
+		h2{
+			color:blue;
+		}
+		p{
+			color: yellow;
+		}
+		
+		}
+		nav{
+				float: right;
+				word-spacing: 20px;
+			}
+			nav a{
+				text-decoration: none;
+			}
+			nav a:hover{
+				color: green;  
+			}
+			label, input{
+			margin :15px;
+			}
+			div.submit{
+				word-spacing: 10px;
+				float: left;
+			}
+			nav.reset{
+				color: #ddd;
+			}
+			table, th, td {
+	  border:1px solid black;
+		 }
